@@ -1,6 +1,6 @@
 ## ☕ Marcos Machado
 
-Foi muito legal montar esse projeto e poder demonstrar o que conheço.
+Foi muito legal montar esse projeto e poder demonstrar o que eu conheço.
 
 
 ## ⚙ Funcionalidades
