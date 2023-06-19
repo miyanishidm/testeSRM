@@ -1,0 +1,12 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /testeSRM
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://miyanishidm:8QTnXIL7PUUeazX5@cluster0.mdldnar.mongodb.net/testeSRM?retryWrites=true&w=majority
+
+springdoc:
+  swagger-ui:
+    queryConfigEnabled: true
